@@ -1,0 +1,1 @@
+print (" hello eveyone. Welcome to data types class " )                                                                                                                                                                                                                                                                       
